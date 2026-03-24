@@ -96,19 +96,19 @@ function App() {
           <h1 id="heroTitle">
             {birthdayReached ? (
               <>
-                Happy Birthday <span className="highlight">Thabsuuu</span> 👀 
+                Happy Birthday <span className="highlight">Aastha</span> 👀 
               </>
             ) : (
               <>
-                Counting down to <span className="highlight">Thabsuuu's</span>{" "}
+                Counting down to <span className="highlight">Aastha's</span>{" "}
                 special day 🎂
               </>
             )}
           </h1>
 
-          <p>💖 It's 24 December 💖</p>
+          <p>💖 It's 25 March 💖</p>
 
-          <p>💗 You are the best thing happened to me this year 💗</p>
+          <p>💗 To the slay queen 💗</p>
         </section>
 
         <Countdown
@@ -131,7 +131,7 @@ function App() {
           disabled={!birthdayReached}
           onClick={() => goToPage(2)}
         >
-          🎀 Let's Celebrate your day ,My Potato 🎀
+          🎀 Let's Celebrate your day ,My Iron Man 🎀
         </button>
       </div>
 
@@ -173,8 +173,8 @@ function App() {
         </button>
         <Gallery isActive={currentPage === 4} />
         <section className="final">
-          <h2 className="final-message">💖 Forever Yours — sidhardha( BATMAN 🦇) 💖</h2>
-          <p className="final-subtitle">✨ I don’t know what tomorrow holds, but I’m glad you’re part of my today. ✨</p>
+          <h2 className="final-message">💖 Forever Yours — Spider Man 💖</h2>
+          <p className="final-subtitle">✨ Hope our friendship lasts forever like you promised me (i still owe you a dosa)✨</p>
         </section>
       </div>
 

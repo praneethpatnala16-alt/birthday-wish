@@ -13,21 +13,18 @@ function MessageCard({ isActive }) {
   const curtainHintRef = useRef(null);
   const messageContentRef = useRef(null);
 
-  const message = `Dear Thabsuuu 👀,
+  const message = `Happy Birthday my Ironman 🖐✨
 
-Wishing you a day filled with love, joy, and unforgettable moments as you celebrate another year of life.
+I hope your last year as a teenager turns out amazing.
+I still remember the day we met honestly, one of the best days for me.
 
-As I said you are the best thing happened to me this year, and I feel incredibly lucky to have you in my life.
+Those 50 days we talked nonstop about movies, food, dance… I still think about that sometimes  and yeah, I still love your hairstyle 😌 and your ghungroos.. too that vibe is just you.
 
-Chalu le inka english ekkuva aipoindhi gani sodhi ekkuva lekunda okatey cheptha idk whats between us but I know its special, adhi matram telusu and lets see what future holds for us. just oka chinna rule la pettukundham we are not going to sleep with out sorting the fight or misunderstanding between us at that particular day.main importantly do what you like antey gani vallu em anukuntaru ani alochinchakunda, nee heart follow avvuu.!
-chalu le mari deep eha velli thitti naa tidatha 😅.
-Aaaa inkotii ee year nunchi aina sariga nadavatam nerchukovey thalli 🙏😅😆, inkaa...em untau my mood setter ,my mood disturber, my distractor, my motivator annii its u adhi neeku kuda telusu anuko.inkaa.......em gurthu ratledu ey 😭 nenu ee paina unna lines rayadam ey ekkuva naku unna overthinking habite kee.
-Eppudu nee inner feeling be like veed roju matladey sidhardha ey naa leka vearey evadi tho aina edhi rayipinchada anukuntav 😂 antey edo edo vaguthuna gha andhuku ,Inka type chestu untey edo type cheseysta 🙃 le epatikee edhi chalu antey short ans sweet ,My dear gorgeouesssssssssssssss, potatooooooooooo 🥔, pandhiiiiiiiiiiiiiiii 🐷, polar bear 🐻‍❄️, beautifullllll 🎀
+We had our misunderstandings and fights, but we still managed to stay friends and I really value that.
 
-once again,
-Happy Birthday My Chubby Buttercup! 🎉🎂🎈😚
+So yeah… enjoy your day, enjoy your life, and keep being you. I’ll always be cheering for you from my side.
 
-— Your Sidhardha ( BATMAN 🦇) 💖`;
+– Your friendly Spiderman 🤟(far from home)`;
 
   // Handle page transitions
   useEffect(() => {
